@@ -1,0 +1,86 @@
+@font-face {
+  font-family: "FormulaBold";
+  src: url(data/font/Bold.ttf);
+}
+@font-face {
+  font-family: "FormulaRegular";
+  src: url(data/font/Regular.ttf);
+}
+
+body {
+    background-color: #38383F;
+}
+
+
+
+
+/* Background color top navigation */
+.topnav {
+    background-color: #E10600;
+    overflow: hidden;
+    font-family: "FormulaRegular";
+  }
+  
+  /* Links navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #15151E;
+    color: white;
+  }
+
+.p1{
+  font-family: "FormulaBold";
+  color: #ddd;
+  text-align: center;
+  margin-top: 2%;
+}
+
+
+.description1{
+  font-family: "FormulaRegular";
+  color: #ddd;
+  font-size: 20px;
+  margin-top: 10%;
+  margin-left: 45%;
+  text-align: center;
+}
+
+.maxf1{
+  float: left;
+  width: 40%;
+  height: auto;
+  margin-left:3%;
+  margin-top: 2%;
+}
+
+.f1{
+  float: right;
+  width: 50%;
+  height: auto;
+  margin-top: 15%;
+  margin-right: 2%;
+}
+
+.description2{
+  font-family: "FormulaRegular";
+  color: #ddd;
+  font-size: 20px;
+  margin-top: 25%;
+  margin-left: 1%;
+  text-align: center;
+}
