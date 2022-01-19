@@ -1,0 +1,41 @@
+.p1{
+  font-family: "FormulaBold";
+  color: #ddd;
+  text-align: center;
+  margin-top: 2%;
+}
+
+
+.description1{
+  font-family: "FormulaRegular";
+  color: #ddd;
+  font-size: 20px;
+  margin-top: 10%;
+  margin-left: 45%;
+  text-align: center;
+}
+
+.maxf1{
+  float: left;
+  width: 40%;
+  height: auto;
+  margin-left:3%;
+  margin-top: 2%;
+}
+
+.f1{
+  float: right;
+  width: 50%;
+  height: auto;
+  margin-top: 15%;
+  margin-right: 2%;
+}
+
+.description2{
+  font-family: "FormulaRegular";
+  color: #ddd;
+  font-size: 20px;
+  margin-top: 25%;
+  margin-left: 1%;
+  text-align: center;
+}
