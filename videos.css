@@ -5,3 +5,38 @@
   margin-top: 1.5%;
   margin-left: 1%;
 }
+
+.video1{
+  font-family: "FormulaBold";
+  color: #ddd;
+  font-size: 20px;
+  margin-top: 3%;
+  text-align: center;
+}
+
+.video1yt{
+  text-align: center;
+}
+
+.video2{
+  font-family: "FormulaBold";
+  color: #ddd;
+  font-size: 15px;
+  margin-top: 2%;
+  text-align: left;
+}
+
+.video2yt{
+  text-align: left;
+}
+
+.video3{
+  font-family: "FormulaBold";
+  color: #ddd;
+  font-size: 15px;
+  text-align: right;
+}
+
+.video3yt{
+  text-align: right;
+}

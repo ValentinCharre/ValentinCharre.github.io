@@ -1,0 +1,50 @@
+.p1{
+  font-family: "FormulaBold";
+  color: #ddd;
+  text-align: left;
+  margin-top: 1.5%;
+  margin-left: 1%;
+}
+
+.button{
+  background-color:#e10800;
+  border-radius:10px;
+  border:2px solid #15151e;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:"FormulaRegular";
+  font-size:17px;
+  font-weight:bold;
+  padding:12px 23px;
+  text-decoration:none;
+}
+.button:hover {
+  background-color:#15151e;
+}
+.button:active {
+  position:relative;
+  top:1px;
+}
+
+.button2 {
+  background-color:#e10800;
+  border-radius:10px;
+  border:2px solid #15151e;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:"FormulaRegular";
+  font-size:17px;
+  font-weight:bold;
+  padding:12px 23px;
+  text-decoration:none;
+}
+.button2:hover {
+  background-color:#15151e;
+}
+.button2:active {
+  position:relative;
+  top:1px;
+}
+
